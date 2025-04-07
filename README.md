@@ -1,7 +1,3 @@
-# gsoc2025-gnome-terminal-modernization
-GTK4 migration and modernization of GNOME Terminal - Gsoc 2025 Proposal
-
-
 # GSoC 2025 - GNOME Terminal Modernization
 
 This repository contains my work and plans for modernizing GNOME Terminal by migrating to GTK4 and updating integration with the latest VTE.

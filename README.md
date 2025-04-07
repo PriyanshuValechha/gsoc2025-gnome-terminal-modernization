@@ -8,7 +8,7 @@ This repository contains my work and plans for modernizing GNOME Terminal by mig
 - Preserve all existing features and improve UI consistency
 
 ## Proposal
-Full proposal available here: [Priyanshu's GSoC 2025 Proposal - GNOME Terminal](https://github.com/PriyanshuValechha)
+Full proposal available here: [Priyanshu's GSoC 2025 Proposal - GNOME Terminal](https://docs.google.com/document/d/1fegaUIcKNbfAp3BBsWhYad4c5qXPN2Xzqdx7yqzbvA0/edit?usp=sharing)
 
 ## Deliverables
 - GTK4 UI migration
